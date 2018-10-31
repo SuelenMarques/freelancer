@@ -284,6 +284,7 @@ li {
   display: inline-block;
   line-height: 46px;
   text-align: center;
+  text-decoration: none;
 }
 
 .circle:{
